@@ -63,10 +63,3 @@ The project achieves competitive performance on the following tasks:
 NLI (Natural Language Inference): Accuracy of 85% on the XNLI dataset.
 NER (Named Entity Recognition): F1-score of 91% on the CoNLL-2003 dataset.
 POS Tagging and Dependency Parsing: Results comparable to the original CamemBERT paper across multiple French treebanks (e.g., GSD, Sequoia).
-
-9. 🤝 Contributors
-
-- Noureddine Khaous
-- Raid Salhi
-- Amine Ouguouenoune
-- Ramy Larabi
